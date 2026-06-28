@@ -32,11 +32,3 @@ Ryujinx Emulator is a highly capable open-source Nintendo Switch emulator known 
 | Controller issues | Configure input settings properly |
 | Mods not loading | Check mod folder structure and compatibility |
 | Windows 11 problems | Keep system and drivers updated |
-
-* Ryujinx Emulator
-* Nintendo Switch Emulator
-* Ryujinx Windows 11
-* Ryujinx Vulkan Support
-* Switch Emulator 2026
-* Ryujinx High FPS Tool
-* Ryujinx Modded Games
